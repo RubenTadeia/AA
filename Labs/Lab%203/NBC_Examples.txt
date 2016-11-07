@@ -1,0 +1,3 @@
+https://www.mathworks.com/help/stats/fitcnb.html
+https://www.mathworks.com/help/stats/fitnaivebayes.html
+https://www.mathworks.com/help/stats/examples/classification.html
